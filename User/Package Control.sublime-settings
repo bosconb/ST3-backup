@@ -1,0 +1,55 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"/Users/dazkarieh/Documents/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"ayu",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"Color Highlight",
+		"ConvertToUTF8",
+		"DeleteBlankLines",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"Gherkin Auto-Complete Plus",
+		"HighlightWords",
+		"Hover Image Preview",
+		"ImsiEncoder",
+		"Insert Nums",
+		"LiveReload",
+		"LiveReloadMake",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"MarkdownTOC",
+		"Material Theme",
+		"Modific",
+		"NeoVintageous",
+		"nginx",
+		"Package Control",
+		"PHPIntel",
+		"Python 3",
+		"Rainglow",
+		"Ruby Completions",
+		"Rubycritic",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimePythonIDE",
+		"Theme - Spacegray",
+		"ToggleNeoVintageous",
+		"TrailingSpaces",
+		"WordHighlight"
+	]
+}

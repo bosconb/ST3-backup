@@ -1,0 +1,14 @@
+{
+	"colors_by_scope":
+	[
+		"string",
+		"entity.name.class",
+		"variable.parameter",
+		"invalid.deprecated",
+		"invalid",
+		"support.function"
+	],
+	"ignore_case": true,
+	"use_regex": true,
+	"whole_word": false
+}
